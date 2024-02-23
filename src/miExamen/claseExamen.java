@@ -1,9 +1,17 @@
-
+/**
+ * <h1> Entornos de desarrollo UT3
+</h1>
+<p>: Esta clase sirve para realizar el examen de la UT3 del módulo Entornos de
+Desarrollo
+</p>
+*/
 package miExamen;
 
 /**
  *
- * @author alu25v
+ * @author Alejandro
+ * @version 1.0.0
+ * @since 23/02/202
  */
 public class claseExamen {
 
